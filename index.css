@@ -1,0 +1,55 @@
+html {
+    padding-left: 160px;
+}
+
+.jumbotron {
+    background: white;
+}
+
+#header {
+    max-width: 80%;
+   font-size: 75px;
+   font-family: 'Roboto Condensed', sans-serif;
+   padding-left: 350px;
+}
+
+
+#l15 {
+    background: red;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: navy;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: lightgrey;
+  }
+
+  footer {
+    background: black;
+    height: 250px;
+  }
+
+  #operationHours {
+    color: red;
+  }
